@@ -33,7 +33,7 @@ Gathered data by conducting phone call interviews regarding current events and i
 The Society for Collegiate Leadership & Achievement (SCLA) is a multi-disciplinary honor society with 60,000+ members at 600+ colleges nationwide. We aim to maximize student potential through our powerful skill development platform including training content on hundreds of skills critical to a successful career, a vibrant mentor and peer community, hundreds of career insider interviews, and direct personal access to hiring managers and internship opportunities.
 
 - First Chapter President for SCLA at **UW**.
-- Organized Cuts for Change Event
+- Organized Cuts for Change Event  
 
 
 [Seton Hall University]: https://www.shu.edu/
