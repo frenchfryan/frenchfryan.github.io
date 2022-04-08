@@ -16,7 +16,7 @@ If given the opportunity, I would love to work as a tutor for STEM Tutoring and 
 
 ## Seton Hall University (South Orange, New Jersey)
 
-* [Seton Hall University][], Only 14 miles from Manhattan, SHU educates servant leaders for today's global society. Our nationally recognized faculty teach in more than 150 programs, including business, communications, diplomacy/international relations, education and health care-related fields. More than 10,000 students attend the University and 80,000 alumni span the globe.*
+* [Seton Hall University][] > One of the country's leading Catholic universities, Seton Hall University has been developing students in mind, heart and spirit since 1856. Home to over 10,000 undergraduate and graduate students and offering more than 90 rigorous majors, Seton Hall's academic excellence has been singled out for distinction by The Princeton Review, U.S. News & World Report and Bloomberg Businessweek.. (Source: https://www.shu.edu/about.cfm)*
 
 ** Sports Poll Data Gatherer (Student Employee)** (Sep 2017 - Apr 2018)
 
@@ -26,7 +26,10 @@ Gathered data by conducting phone call interviews regarding current events and i
 - Employee of the Month (twice)
 
 ## University of Washington (Seattle, Washington)
-*[University of Washington][] Founded in 1861, the UW is one of the oldest state-supported institutions of higher education on the West Coast and is one of the preeminent research universities in the world. Located minutes from downtown Seattle, the main UW campus provides gorgeous views of the Cascade and Olympic mountain ranges and, every spring, attracts visitors from all over to world who come to witness the blooming of its cherry blossom trees.*
+<img src="UW.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+*[University of Washington][] > The UW is one of the world’s preeminent public universities. Our impact on individuals, our region and the world is profound — whether we are launching young people into a boundless future or confronting the grand challenges of our time through undaunted research and scholarship. Ranked No. 7 in the world on the U.S. News & World Report’s Best Global Universities rankings, the UW educates more than 54,000 students annually. We turn ideas into impact and transform lives and our world. For more about our impact, visit our news site, UW News. (Source: https://www.washington.edu/about/?utm_source=whitebar&utm_medium=click&utm_campaign=about&utm_term=abouttheuw)*
 
 ** Chapter President at the University of Washington (RSO)** (Jul 2021 - Present)
 
